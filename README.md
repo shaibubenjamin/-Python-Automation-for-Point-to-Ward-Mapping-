@@ -1,5 +1,5 @@
 # -Python-Automation-for-Point-to-Ward-Mapping-
-Developed a Python script using leveraging geopandas to efficiently match 1000 points with their corresponding wards in Nigeria, streamlining data integration and analysis and exporting results to an excel sheet for informed decision-making
+Developed a Python script leveraging geopandas to efficiently match 1000 points with their corresponding wards in Nigeria, streamlining data integration and analysis and exporting results to an excel sheet for informed decision-making
 ![Point-Ward-Mapping](https://github.com/shaibubenjamin/-Python-for-Automation-Point-Ward-Mapping-/blob/a9d00a4588ff8c788c149d08121f27186647211d/Wards%20to%20point%20mapping.png) 
 
 ## Table of Contents
